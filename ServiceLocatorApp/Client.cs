@@ -1,0 +1,7 @@
+﻿namespace ServiceLocatorApp
+{
+    class Client
+    {
+        
+    }
+}
